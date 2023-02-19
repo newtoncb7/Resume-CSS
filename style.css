@@ -1,0 +1,30 @@
+body {background-color: lightpink;
+	}
+
+h1 {font-family: 'Lobster', helvetica, sans-serif;
+	text-align: center;
+	color: purple;
+
+	}
+
+#photo {text-align: center;
+	background-image: url("swirl.png"); padding-bottom: 30px;
+	}
+
+h2 {font-size: 25px; 
+	text-decoration: underline;
+
+}
+
+#contact {text-align: center; padding-bottom: 5px; padding-top: 1px;
+}
+
+#contact {background-color: rgba(192,192,192,.2)
+}
+
+#list ul {
+  list-style-type: '\2605';
+}
+
+#repertoire ul {list-style-type: '\2605';
+}
